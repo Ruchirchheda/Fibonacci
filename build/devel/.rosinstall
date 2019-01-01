@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ruceda/catkin_ws/src/Fibonacci/build/devel/setup.sh
